@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T18:01:46.766Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="54vDtn4KTzQB3cNA80nk" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T18:03:22.022Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="5FXbLXObC5Dbdci19cL7" version="24.2.8" type="github">
   <diagram name="Page-1" id="a1SkmuLwCs4fRKTpS2bY">
     <mxGraphModel dx="724" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="XhMJuec7qcCfYVS_tTdR-2" value="Vente de ticket de cinéma en ligne" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="140" width="710" height="675" as="geometry" />
         </mxCell>
-        <mxCell id="XhMJuec7qcCfYVS_tTdR-4" value="Gere profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
+        <mxCell id="XhMJuec7qcCfYVS_tTdR-4" value="Gere profile" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
           <mxGeometry x="80" y="430" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XhMJuec7qcCfYVS_tTdR-7" value="Cree un compte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
@@ -25,14 +25,14 @@
         <mxCell id="XhMJuec7qcCfYVS_tTdR-12" value="Chercher par titre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
           <mxGeometry x="330" y="210" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XhMJuec7qcCfYVS_tTdR-13" value="Consulter le catalogue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
+        <mxCell id="XhMJuec7qcCfYVS_tTdR-13" value="Consulter le catalogue" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
           <mxGeometry x="15" y="80" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XhMJuec7qcCfYVS_tTdR-9" value="Chercher dans cataloge" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
+        <mxCell id="XhMJuec7qcCfYVS_tTdR-9" value="Chercher dans cataloge" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
           <mxGeometry x="100" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XhMJuec7qcCfYVS_tTdR-14" value="Consulter tout les film" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
-          <mxGeometry x="200" y="60" width="100" height="40" as="geometry" />
+          <mxGeometry x="200" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XhMJuec7qcCfYVS_tTdR-16" value="Donner la fiche signalitique" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
           <mxGeometry x="335" y="110" width="105" height="70" as="geometry" />
@@ -43,16 +43,16 @@
         <mxCell id="XhMJuec7qcCfYVS_tTdR-24" value="Gere cataloge" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
           <mxGeometry x="500" y="580" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XhMJuec7qcCfYVS_tTdR-25" value="Gere les profiles" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
+        <mxCell id="XhMJuec7qcCfYVS_tTdR-25" value="Gere les profiles" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
           <mxGeometry x="570" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XhMJuec7qcCfYVS_tTdR-26" value="manage transactions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
+        <mxCell id="XhMJuec7qcCfYVS_tTdR-26" value="manage transactions" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
           <mxGeometry x="530" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XhMJuec7qcCfYVS_tTdR-27" value="Donner les recommendation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
           <mxGeometry x="400" y="500" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XhMJuec7qcCfYVS_tTdR-28" value="reserver ticker " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
+        <mxCell id="XhMJuec7qcCfYVS_tTdR-28" value="reserver ticker " style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
           <mxGeometry x="250" y="390" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XhMJuec7qcCfYVS_tTdR-29" value="get reductions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
@@ -142,7 +142,7 @@
             <mxPoint x="610" y="358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XhMJuec7qcCfYVS_tTdR-59" value="s&#39;authentifier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
+        <mxCell id="XhMJuec7qcCfYVS_tTdR-59" value="s&#39;authentifier" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XhMJuec7qcCfYVS_tTdR-2">
           <mxGeometry x="550" y="297.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XhMJuec7qcCfYVS_tTdR-60" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="XhMJuec7qcCfYVS_tTdR-2" source="XhMJuec7qcCfYVS_tTdR-26" target="XhMJuec7qcCfYVS_tTdR-59">
